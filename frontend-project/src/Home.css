@@ -1,0 +1,25 @@
+.main-content {
+  display: flex;
+  min-height: 55vh;
+  width: 100%;
+}
+
+.div-home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: white; */
+}
+
+.container-produtosemalta {
+  width: 100%;
+  padding: 0 1em;
+  justify-content: space-between;
+  display: flex;
+}
+.container-produtosemalta h3,
+.link-vermais-global {
+  width: max-content;
+  font-size: 15px;
+}
